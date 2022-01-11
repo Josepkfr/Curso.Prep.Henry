@@ -1,0 +1,5 @@
+For: es un bucle de repeticion
+&&: significa "y" evalua dos expresiones y devuelve un true si las dos son verdaderas, si una sola es falsa devuelve false
+||: "O" evalua dos expresiones devuelve true si una sola de sus expresiones es true
+!: operador de negacion al niega cualquier expresion si es verdadera devuelve false y vicebersa
+
